@@ -8,8 +8,6 @@
 <img src="Images/05cItXL96l4LE9n02WfDR0h-6.png" alt="05cItXL96l4LE9n02WfDR0h-6.png" height="382px">
 </p>
 
-<p>We have clustered Netflix Movies And TV Shows Data with K-Means Clustring and built a recommender system in Google Colab which recommends 5 movies based on input movie using cosin similarity.</p>
-
 <h2> :floppy_disk: Project Files Description</h2>
 
 <p>This Project includes 1 colab notebook, 1 technical documentation as well as 1 presentation:</p>
@@ -32,7 +30,7 @@
 
 <h2> :book: K-Means And Recommender System</h2>
 
-<p>I have used a K Means clustering with an optimal value of k=9 for clustering the Text Based Columns. The value of k was chosen from the elbow method and silhouette score. 
+<p>I have used a K Means clustering with an optimal value of k=26 for clustering the Text Based Columns. The value of k was chosen from the elbow method and silhouette score. 
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
