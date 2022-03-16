@@ -2,6 +2,7 @@ netflix-logo-png-2574.png
 
 Netflix Movies And TV Shows Clustering
 AlmaBetter Verfied Project - AlmaBetter School
+
 05cItXL96l4LE9n02WfDR0h-6.png
 
 I have clustered Netflix Movies And TV Shows Data with K-Means Clustring.
